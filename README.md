@@ -2,6 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
+## Readme ( What i learned etc)
+
+Alot of reference and googling and copy and pasting. Main core is that I want to dwell into Angular and Firebase.
+
+Angular have three main components.
+
+Mainly is adding components.
+Secondary is importing modules.
+Thirdly is after everything code is done you can NgBuild to turn typescript into Javascript and turn into web-app.
+Lastly, is using firebase to deploy my web-app
+
+## Firebase Server
+
+https://tictactoe-472de.web.app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
