@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-472de": {
+      "hosting": {
+        "ticXO": [
+          "tictactoe-472de"
+        ]
+      }
+    }
+  }
+}
