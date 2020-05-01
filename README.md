@@ -13,7 +13,7 @@ Secondary is importing modules.
 Thirdly is after everything code is done you can NgBuild to turn typescript into Javascript and turn into web-app.
 Next, is using firebase to deploy my web-app
 Lastly, using webpack able to package and install offline into your computer, or repackage to iOS or android.
-<a href="https://imgur.com/GJWvTPk"><img src="https://imgur.com/GJWvTPk"></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/6LdZgiR"><a href="//imgur.com/a/6LdZgiR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## Firebase Server
 
 https://tictactoe-472de.web.app/
