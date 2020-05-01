@@ -11,8 +11,9 @@ Angular have three main components.
 Mainly is adding components.
 Secondary is importing modules.
 Thirdly is after everything code is done you can NgBuild to turn typescript into Javascript and turn into web-app.
-Lastly, is using firebase to deploy my web-app
-
+Next, is using firebase to deploy my web-app
+Lastly, using webpack able to package and install offline into your computer, or repackage to iOS or android.
+<img src = href =" https://imgur.com/GJWvTPk"> </img>
 ## Firebase Server
 
 https://tictactoe-472de.web.app/
